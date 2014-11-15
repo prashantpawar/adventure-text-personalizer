@@ -1,2 +1,2 @@
-adventure-gmail-parser
+adventure-gmail-personalizer
 ======================
