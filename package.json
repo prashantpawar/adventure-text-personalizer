@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/prashantpawar/adventure-text-personalizer",
   "dependencies": {
-    "mailparser": "~0.4.6"
+    "mailparser": "~0.4.6",
+    "node-mbox": "~0.1.0"
   }
 }
