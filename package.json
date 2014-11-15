@@ -1,0 +1,22 @@
+{
+  "name": "adventure-text-personalizer",
+  "version": "0.0.0",
+  "description": "adventure-gmail-personalizer ======================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prashantpawar/adventure-text-personalizer.git"
+  },
+  "author": "\"Prashant Singh Pawar <prashantpawar@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prashantpawar/adventure-text-personalizer/issues"
+  },
+  "homepage": "https://github.com/prashantpawar/adventure-text-personalizer",
+  "dependencies": {
+    "mailparser": "~0.4.6"
+  }
+}
